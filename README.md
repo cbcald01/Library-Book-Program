@@ -12,7 +12,7 @@ Developed a C# console application that uses a reusable LibraryBook class to sto
 - Displays book information before and after updates.
 
 ## Skills Demonstrated
-C# · Object-Oriented Programming · Classes · Encapsulation · Constructors · Properties · Arrays · Data Validation
+C# · Console Application
 
 ## Project Link
 [View Library Book Program on GitHub](https://github.com/cbcald01/Library-Book-Program)
